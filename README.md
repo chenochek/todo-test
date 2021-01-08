@@ -1,29 +1,12 @@
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Тестовое задание. 
+Нужно разработать простой ToDo лист который должен обладать следующими функциями: * Добавлять/Удалять/Редактировать дела в списке; 
+* Возможность помечать дела выполненными; 
+* Возможность сортировать дела в списке (Drag and drop); 
+* Лист должен уметь синхронизироваться между разными устройствами (браузерами); ** Будет плюсом: Приложение должно работать в условиях частой потери связи с инетом  или длительных задержек. 
+Требования к выполнению: 
+* В задании прежде всего проверяются знания по JavaScript (стили и разметку использовать  только необходимые); 
+* Простой бэкенд можно разработать самостоятельно (Ruby/Javascript) или же использовать  онлайн сервисы; 
+* Результат желательно опубликовать на Github; 
+** Будет плюсом: Код должен быть покрыт тестами (обязательно хотя бы минимальный  набор тестов). 
+Технологии: 
+* Задание должно быть выполнено с использованием технологий описанных в вакансии.
