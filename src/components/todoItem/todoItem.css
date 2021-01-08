@@ -1,0 +1,53 @@
+.todoItem {
+    width: 50vw;
+    height: 20vh;
+    background-color: white;
+    border: 1px solid gray;
+    margin: auto auto 0.3vh;
+   box-shadow: -1px -1px 12px 0px rgba(53, 50, 50, 0.48);
+   display: flex;
+    /*flex-direction: row;*/
+}
+
+.todoItem__checkbox {
+  margin: auto;
+    width: 10vw;
+}
+
+
+.todoItem__text {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 34vw;
+    font-size: 5vh;
+    /*line-height: 0.5vh;*/
+}
+
+.todoItem__text-active {
+    border: 1px solid black;
+}
+
+.todoItem__text-completed {
+    text-decoration: line-through;
+}
+
+.todoItem__btn {
+    margin: auto;
+    width: 2vw;
+    border: none;
+    background-color: transparent;
+}
+
+.todoItem__btn-edit {
+    position: relative;
+    right: 1vw;
+    color: green;
+}
+
+
+.todoItem__btn-remove {
+    position: relative;
+    right: 1vw;
+    color: red;
+}
